@@ -1,4 +1,4 @@
-class HouseMemberSearchResults
+class WesterosHouseMemberResults
   def initialize(house)
     @house = house
   end
@@ -7,7 +7,7 @@ class HouseMemberSearchResults
     house_member.count
   end
 
-  def house_member 
+  def house_member
 
   end
 end
